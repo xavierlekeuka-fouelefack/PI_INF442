@@ -4,4 +4,4 @@ No particular high library is required except from the usual ones.
 
 Hence before launghing, be sure to install the required libraries by making 
 
-$ pip install requirements.txt
+$ pip install -r requirements.txt
