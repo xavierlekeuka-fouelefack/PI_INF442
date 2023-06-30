@@ -1,1 +1,10 @@
-
+ipykernel
+json
+numpy
+pandas
+matplotlib
+sqlite3
+datetime
+scipy
+seaborn
+scikit-learn
